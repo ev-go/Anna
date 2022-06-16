@@ -9,6 +9,6 @@ func main() {
 
 	b := 0.99
 
-	fmt.Println(a - b)
+	fmt.Println(a - b - a)
 
 }
